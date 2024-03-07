@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himani Singh</h1>
-<h3 align="center">An aspiring computer science engineer from India</h3>
+<h3 align="center">An aspiring computer science engineer from India seeking to learn and grow</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
